@@ -1,0 +1,67 @@
+body {
+    background-image: url(./space.jpg);
+    background-attachment: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.starform {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    color: white;
+
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-left: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-radius: 15px;
+
+    padding: 2%;
+}
+
+.starpng {
+    width: 70px;
+}
+
+.navbar {
+    background-color: transparent;
+    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.75);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+}
+
+.navbar-brand {
+    color: rgb(218, 216, 216);
+}
+
+
+
+
+
+/*
+.img-fluid {
+    margin: auto;
+    position: relative;
+
+}
+
+background-repeat: no-repeat;
+background-size: 100% ;
+background-size: cover;
+background-position: center center;
+
+background-size: cover;
+height: 100vh;
+font-size:300px;
+background-repeat:no-repeat; 
+background-position: center center;
+background-attachment: fixed;
+background-size: 100% ;
+
+position: fixed;
+*/
